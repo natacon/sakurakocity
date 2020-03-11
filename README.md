@@ -1,0 +1,2 @@
+# sakurakocity
+slack用さくらこbotのgolangバージョン
